@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - ✍️ certificate  https://drive.google.com/file/d/1oCduwNE_97ITF8TDlipAeV0KE2A2tSB2/view?usp=sharing
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Paari03" alt="Paari03" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SumanArul" alt="SumanArul" /></a> </p>
 
 
 
