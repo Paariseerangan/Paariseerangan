@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **paariofficial03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xJiXBBW-WSizSX0q3rQxyJNcKznxyDof/view?usp=drive_link]()
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xJiXBBW-WSizSX0q3rQxyJNcKznxyDof/view?usp=drive_link](https://drive.google.com/file/d/1xJiXBBW-WSizSX0q3rQxyJNcKznxyDof/view?usp=drive_link)
 
 
 
