@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 
 
-- ✍️ certificate  https://drive.google.com/file/d/1oCduwNE_97ITF8TDlipAeV0KE2A2tSB2/view?usp=sharing
+- ✍️ certificate https://drive.google.com/file/d/1dBYiaoXQe7PH1C2BX3L_VuqxvwxzB1E3/view?usp=drive_link
 
-- ✍️ certificate  https://drive.google.com/file/d/1oCduwNE_97ITF8TDlipAeV0KE2A2tSB2/view?usp=sharing
+- ✍️ certificate  https://drive.google.com/file/d/19-ByzbNpuRTrISv8XWWPw7Mn2lg6VnoO/view?usp=drive_link
 
-- ✍️ certificate  https://drive.google.com/file/d/1oCduwNE_97ITF8TDlipAeV0KE2A2tSB2/view?usp=sharing
+- ✍️ certificate  https://drive.google.com/file/d/1xBuljIL2QzyZzTRm9ASJKXb5RvI5A1Iw/view?usp=drive_link
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Paariseerangan" alt="Paariseerangan" /></a> </p>
 
