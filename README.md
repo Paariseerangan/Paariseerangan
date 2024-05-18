@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **OOPs,MySQL**
 
-- 📫 How to reach me **paarilasttrip03@gmail.com**
+- 📫 How to reach me **paariofficial03@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jqVvJH-QSG_ZsI6pKkMwPrkh_Sjy1O87/view?usp=sharing](https://drive.google.com/file/d/1jqVvJH-QSG_ZsI6pKkMwPrkh_Sjy1O87/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xJiXBBW-WSizSX0q3rQxyJNcKznxyDof/view?usp=drive_link](https://drive.google.com/file/d/1jqVvJH-QSG_ZsI6pKkMwPrkh_Sjy1O87/view?usp=sharing)
 
 
 
